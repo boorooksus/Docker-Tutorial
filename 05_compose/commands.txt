@@ -1,0 +1,6 @@
+docker build -t booroogi/compose ./
+
+docker run booroogi/compose
+
+
+docker compose up
